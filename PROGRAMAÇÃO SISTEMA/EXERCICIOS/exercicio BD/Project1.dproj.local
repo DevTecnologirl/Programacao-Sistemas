@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/06 11:16:56.000.348,=C:\Users\camil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 11:03:47.000.208,=C:\Users\camil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 11:06:04.000.184,F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\Unit1.dfm=C:\Users\camil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/12 11:06:04.000.184,F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\Unit1.pas=C:\Users\camil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 12:02:34.000.041,=C:\Users\camil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/12 12:51:25.000.674,F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\Unit2.pas=C:\Users\camil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/12 12:51:25.000.674,F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\Unit2.dfm=C:\Users\camil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/02/12 12:51:29.000.434,F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\Project1.dproj=C:\Users\camil\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/02/12 20:27:34.848,=F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\Unit3.pas</Transaction>
+    <Transaction>2022/02/12 20:31:09.942,F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\CadFuncionario.dfm=F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\Unit3.dfm</Transaction>
+    <Transaction>2022/02/12 20:31:09.942,F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\CadFuncionario.pas=F:\PROGRAMAÇÃO SISTEMA\EXERCICIOS\exercicio BD\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>

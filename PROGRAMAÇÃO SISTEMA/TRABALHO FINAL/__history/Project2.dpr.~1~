@@ -1,0 +1,20 @@
+program Project2;
+
+uses
+  Vcl.Forms,
+  uPrincipal in 'uPrincipal.pas' {formPrincipal},
+  udtmPrincipal in 'udtmPrincipal.pas' {dtmPrincipal},
+  uCadCliente in 'uCadCliente.pas' {frmCadCliente},
+  uCadAgendamento in 'uCadAgendamento.pas' {formAgendamento};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TformPrincipal, formPrincipal);
+  Application.CreateForm(TdtmPrincipal, dtmPrincipal);
+  Application.CreateForm(TfrmCadCliente, frmCadCliente);
+  Application.CreateForm(TformAgendamento, formAgendamento);
+  Application.Run;
+end.

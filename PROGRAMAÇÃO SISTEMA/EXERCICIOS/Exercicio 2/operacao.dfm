@@ -1,0 +1,141 @@
+object formnumero: Tformnumero
+  Left = 0
+  Top = 0
+  Caption = 'Formul'#225'rio Num'#233'rico'
+  ClientHeight = 231
+  ClientWidth = 505
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblResultado: TLabel
+    Left = 224
+    Top = 74
+    Width = 16
+    Height = 23
+    Caption = '='
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label1: TLabel
+    Left = 57
+    Top = 20
+    Width = 107
+    Height = 16
+    Caption = 'Informe o Num1:'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'System'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 57
+    Top = 88
+    Width = 107
+    Height = 16
+    Caption = 'Informe o Num2:'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'System'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object edtNum1: TEdit
+    Left = 57
+    Top = 39
+    Width = 121
+    Height = 31
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 0
+  end
+  object edtNum2: TEdit
+    Left = 57
+    Top = 101
+    Width = 121
+    Height = 31
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 1
+  end
+  object btnsomar: TButton
+    Left = 72
+    Top = 179
+    Width = 75
+    Height = 25
+    Caption = 'SOMAR'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 2
+    OnClick = btnsomarClick
+  end
+  object btnSub: TButton
+    Left = 168
+    Top = 178
+    Width = 89
+    Height = 25
+    Caption = 'Subtra'#231#227'o'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 3
+    OnClick = btnSubClick
+  end
+  object btnDiv: TButton
+    Left = 392
+    Top = 179
+    Width = 75
+    Height = 25
+    Caption = 'Divis'#227'o'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 4
+    OnClick = btnDivClick
+  end
+  object btnMult: TButton
+    Left = 279
+    Top = 178
+    Width = 99
+    Height = 26
+    Caption = 'Multiplica'#231#227'o'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'System'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 5
+    OnClick = btnMultClick
+  end
+end
